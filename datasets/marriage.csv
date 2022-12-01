@@ -1,0 +1,105 @@
+index,FIPS,Name,Type,TimeFrame,Median Age,Population Density per Sq Mi
+0,1,Alabama,State,2006-2010,25.5,94.4
+1,2,Alaska,State,2006-2010,24.8,1.2
+2,4,Arizona,State,2006-2010,25.6,56.3
+3,5,Arkansas,State,2006-2010,24.5,56.0
+4,6,California,State,2006-2010,26.9,239.1
+5,8,Colorado,State,2006-2010,25.7,48.5
+6,9,Connecticut,State,2006-2010,27.6,738.1
+7,10,Delaware,State,2006-2010,26.4,460.8
+8,11,District of Columbia,State,2006-2010,29.6,9856.5
+9,12,Florida,State,2006-2010,26.6,350.6
+10,13,Georgia,State,2006-2010,25.9,168.4
+11,15,Hawaii,State,2006-2010,27.0,211.8
+12,16,Idaho,State,2006-2010,23.3,19.0
+13,17,Illinois,State,2006-2010,27.1,231.1
+14,18,Indiana,State,2006-2010,25.9,181.0
+15,19,Iowa,State,2006-2010,25.5,54.5
+16,20,Kansas,State,2006-2010,25.1,34.9
+17,21,Kentucky,State,2006-2010,25.0,109.9
+18,22,Louisiana,State,2006-2010,26.2,104.9
+19,23,Maine,State,2006-2010,26.5,43.1
+20,24,Maryland,State,2006-2010,27.4,594.8
+21,25,Massachusetts,State,2006-2010,28.5,839.4
+22,26,Michigan,State,2006-2010,26.6,174.8
+23,27,Minnesota,State,2006-2010,26.3,66.6
+24,28,Mississippi,State,2006-2010,25.9,63.2
+25,29,Missouri,State,2006-2010,25.8,87.1
+26,30,Montana,State,2006-2010,25.4,6.8
+27,31,Nebraska,State,2006-2010,25.5,23.8
+28,32,Nevada,State,2006-2010,25.7,24.6
+29,33,New Hampshire,State,2006-2010,26.8,147.0
+30,34,New Jersey,State,2006-2010,27.8,1195.5
+31,35,New Mexico,State,2006-2010,25.9,17.0
+32,36,New York,State,2006-2010,28.3,411.2
+33,37,North Carolina,State,2006-2010,25.9,196.1
+34,38,North Dakota,State,2006-2010,25.7,9.7
+35,39,Ohio,State,2006-2010,26.3,282.3
+36,40,Oklahoma,State,2006-2010,24.5,54.7
+37,41,Oregon,State,2006-2010,26.1,39.9
+38,42,Pennsylvania,State,2006-2010,27.2,283.9
+39,44,Rhode Island,State,2006-2010,27.9,1018.1
+40,45,South Carolina,State,2006-2010,26.4,153.9
+41,46,South Dakota,State,2006-2010,25.5,10.7
+42,47,Tennessee,State,2006-2010,25.4,153.9
+43,48,Texas,State,2006-2010,25.3,96.3
+44,49,Utah,State,2006-2010,23.0,33.6
+45,50,Vermont,State,2006-2010,27.0,67.9
+46,51,Virginia,State,2006-2010,26.5,202.6
+47,53,Washington,State,2006-2010,25.8,101.2
+48,54,West Virginia,State,2006-2010,25.4,77.1
+49,55,Wisconsin,State,2006-2010,26.4,105.0
+50,56,Wyoming,State,2006-2010,24.2,5.8
+51,US,United States,Country,2006-2010,26.3,87.4
+52,1,Alabama,State,2015-2019,26.7,99.2
+53,2,Alaska,State,2015-2019,26.4,1.3
+54,4,Arizona,State,2015-2019,27.8,63.0
+55,5,Arkansas,State,2015-2019,25.7,57.9
+56,6,California,State,2015-2019,29.0,254.0
+57,8,Colorado,State,2015-2019,27.7,54.3
+58,9,Connecticut,State,2015-2019,29.5,745.0
+59,10,Delaware,State,2015-2019,29.0,508.0
+60,11,District of Columbia,State,2015-2019,30.6,11295.0
+61,12,Florida,State,2015-2019,28.9,402.0
+62,13,Georgia,State,2015-2019,27.7,186.0
+63,15,Hawaii,State,2015-2019,28.4,227.0
+64,16,Idaho,State,2015-2019,25.4,22.3
+65,17,Illinois,State,2015-2019,28.9,231.0
+66,18,Indiana,State,2015-2019,27.0,189.0
+67,19,Iowa,State,2015-2019,26.6,57.1
+68,20,Kansas,State,2015-2019,26.1,35.9
+69,21,Kentucky,State,2015-2019,26.4,114.0
+70,22,Louisiana,State,2015-2019,27.9,108.0
+71,23,Maine,State,2015-2019,27.8,44.2
+72,24,Maryland,State,2015-2019,29.1,636.0
+73,25,Massachusetts,State,2015-2019,29.9,901.0
+74,26,Michigan,State,2015-2019,28.1,178.0
+75,27,Minnesota,State,2015-2019,27.8,71.7
+76,28,Mississippi,State,2015-2019,26.9,63.1
+77,29,Missouri,State,2015-2019,26.9,89.5
+78,30,Montana,State,2015-2019,26.4,7.5
+79,31,Nebraska,State,2015-2019,26.4,25.5
+80,32,Nevada,State,2015-2019,27.8,28.3
+81,33,New Hampshire,State,2015-2019,28.7,154.0
+82,34,New Jersey,State,2015-2019,29.3,1263.0
+83,35,New Mexico,State,2015-2019,27.7,17.5
+84,36,New York,State,2015-2019,29.7,429.0
+85,37,North Carolina,State,2015-2019,27.6,215.0
+86,38,North Dakota,State,2015-2019,26.0,11.3
+87,39,Ohio,State,2015-2019,27.9,289.0
+88,40,Oklahoma,State,2015-2019,25.9,57.7
+89,41,Oregon,State,2015-2019,27.9,44.1
+90,42,Pennsylvania,State,2015-2019,28.7,291.0
+91,44,Rhode Island,State,2015-2019,29.7,1061.0
+92,45,South Carolina,State,2015-2019,28.0,170.0
+93,46,South Dakota,State,2015-2019,26.4,11.7
+94,47,Tennessee,State,2015-2019,26.9,168.0
+95,48,Texas,State,2015-2019,27.0,112.0
+96,49,Utah,State,2015-2019,24.6,39.8
+97,50,Vermont,State,2015-2019,28.4,69.8
+98,51,Virginia,State,2015-2019,27.8,219.0
+99,53,Washington,State,2015-2019,27.3,116.0
+100,54,West Virginia,State,2015-2019,26.7,74.6
+101,55,Wisconsin,State,2015-2019,27.8,109.0
+102,56,Wyoming,State,2015-2019,25.7,5.9
+103,US,United States,Country,2015-2019,28.0,94.8
