@@ -1,0 +1,78 @@
+WWI datasets
+
+1. profit
+	per year
+	add a Card
+		decimal places
+		
+2. quantity
+	per year
+	legend x-axis state province
+	interact touch profit-year bars
+	interact touch quantity province bars
+
+3. employees
+	table. order of rows is important
+	Employee
+	Description, Quantity, Total including tax, Profit
+	take out Description -> auto aggregates
+	slicer Year
+	
+
+4. transform
+	customer
+	remove row
+	set row as header
+	remove columns
+	
+	stock
+	Recommended retail price
+	?
+	decimal
+	LOCALE
+	unit price by color
+	data unit price Column Tools 
+	$ decimal
+
+5. profit per state
+	cities
+	State Province change type
+	profit default summarization
+	profit / province
+		bars
+		maps
+	slicer Buying group
+	
+	
+exp log	
+
+locale
+diamonds
+
+several viz
+format visual
+
+bar chart
+	avg price per quality
+	Enter Data: order
+	
+	count per quality
+	index column
+	
+	format
+	
+	stacked bar chart
+		color count
+		clarity legend
+	
+	scatterplot	
+	pie
+	donut
+	
+
+
+
+	
+
+	
+

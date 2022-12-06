@@ -1,0 +1,85 @@
+beautiful dashboards 
+drag and drop
+non technical audiences
+flexible: different data sources
+intuitive, easy to navigate
+prototyping: dashboard in days
+
+Tableau Desktop paying
+
+https://www.tableau.com/products/public/download
+Tableau Public free all viz excel csv 
+15M rows 
+save online (public)
+
+
+
+start page
+locale
+
+load data
+	change colname
+	change coltype
+	new worksheet
+	new dashboard
+	new story
+
+interfaz
+	data roles
+		
+		dimensions: qualitative, used to segment
+		measures: numeric quantitative values, can be aggregated
+		Generation
+	
+		discrete: blue
+		continuous: green
+		
+		dimensions are generally discrete
+		
+	italic: generated auto
+
+1. first example
+	row Type 1
+	HP Text	
+	HP average
+	Filter Legendary
+	row Generation
+	
+2. more viz
+	row Type
+	text #id
+	bars
+		show labels
+	pie
+	tablon
+	
+3. boxplot
+	row attack
+	Analysis -> uncheck Aggregate Measures
+	row Name
+	text Attack
+	boxplot
+	
+4. histogram
+	speed
+	color legendary
+	
+5. scatterplot
+	attack
+	defense
+	filter Type
+	color Type
+	size Legendary
+	
+6. type1 type2 id
+	row row count
+	heatmap
+	highlight table
+	
+	
+	
+	theory
+	
+	
+		
+	
